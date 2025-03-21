@@ -1,0 +1,5 @@
+title: 'Энциклопедия стажера'
+href: index.yaml
+items:
+  - name: trainee_bd
+    href: content.md

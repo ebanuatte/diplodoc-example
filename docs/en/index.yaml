@@ -8,3 +8,7 @@ links:
     href: anotherpage.md
   - title: Sub-section on index page
     href: sub-section/
+  - title: Энциклопедия стажера
+    href: trainee_bd/
+  - title: Перенесенные 4 статьи
+    href: sub-section copy/

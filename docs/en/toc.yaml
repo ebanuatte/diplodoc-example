@@ -11,3 +11,11 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
+  - name: Энциклопедия стажера 
+    include:
+      path: trainee_bd/toc.yaml
+      mode: link
+  - name: Перенос энциклопедии стажеров 
+    include:
+      path: sub-section copy/toc.yaml
+      mode: link

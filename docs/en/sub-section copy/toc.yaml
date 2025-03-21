@@ -1,0 +1,11 @@
+title: Sub-section Example TOC2
+href: index.yaml
+items:
+  - name: выписки
+    href: content copy.md
+  - name: прочие операции
+    href: content copy 2.md
+  - name: а тут я тестирую
+    href: content copy 3.md
+  - name: и тут тоже
+    href: content.md
